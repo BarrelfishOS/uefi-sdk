@@ -25,6 +25,7 @@
 [Sources.AARCH64]
   AArch64/memcpy.S
   AArch64/memset.c
+  AArch64/trunctfdf2.c    | GCC
 
 [Sources.ARM]
   Arm/mullu.asm        | RVCT
@@ -102,6 +103,3 @@
 
 [Packages]
   MdePkg/MdePkg.dec
-
-[LibraryClasses]
-
