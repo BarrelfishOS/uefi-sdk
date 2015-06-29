@@ -123,6 +123,5 @@
 
 /* limit of size_t */
 #define SIZE_MAX  0xffffffffffffffffULL    /* size_t   */
-#define SIZE_T_MAX  SIZE_MAX
 
 #endif /* !_AARCH64_INT_LIMITS_H_ */
